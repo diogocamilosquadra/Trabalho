@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="todo">TODO</string>
+    <string name="texto_1">Texto 1</string>
+    <string name="texto_2">Texto 2</string>
+    <string name="texto_3">Texto 3</string>
+    <string name="Foto1">foto1</string>
+    <string name="Foto2">foto2</string>
+    <string name="Foto3">foto3</string>
+    <string name="img">img</string>
+</resources>
